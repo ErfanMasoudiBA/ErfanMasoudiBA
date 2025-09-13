@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Mobile+App+Developer;Computer+Engineering+Student;Bridging+Creativity+%26+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Mobile+App+Developer;Computer+Engineering+Student;Bridging+Creativity+%26+Technology)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,57 +64,34 @@ I'm a passionate **Computer Engineering student** and **AI & Mobile App Develope
 </table>
 
 ---
-# 💼 Professional Journey
 
-<div align="center">
-
-![Experience](https://img.shields.io/badge/Experience-2+%20Years-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Mobile%20%7C%20IT-green?style=for-the-badge)
-
-</div>
-
----
+## 💼 **Professional Journey**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 **AI & Mobile Developer Intern**
-**PishgamanAI** • *2025 – Present*
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=robot&logoColor=white)
-
-- 📱 Cross-platform Flutter development
-- 🤖 AI integration & smart solutions  
-- ⚡ Agile team collaboration
-- 🎯 Intelligent app development
+**PishgamanAI** *(2025 – Present)*
+- 📱 Developing cross-platform **Flutter applications** with AI integration
+- 🤖 Leveraging AI-powered coding tools for efficient development
+- ⚡ Working in agile team environments
+- 🎯 Focusing on intelligent app solutions
 
 </td>
 <td width="50%">
 
 ### 🔧 **IT & Network Support Specialist**
-**MahamTeymouri** • *2023 – 2024*
-
-![Network](https://img.shields.io/badge/Network-326CE5?style=flat&logo=cisco&logoColor=white)
-![Support](https://img.shields.io/badge/IT%20Support-28A745?style=flat&logo=support&logoColor=white)
-
-- 🌐 Network infrastructure & maintenance
-- 🔍 System troubleshooting & optimization
-- 📈 Improved efficiency by 25%
-- 👥 Technical mentoring & support
+**MahamTeymouri** *(2023 – 2024)*
+- 🌐 Network infrastructure setup & maintenance
+- 🔧 System troubleshooting and comprehensive IT support
+- 📈 Improved system efficiency and reliability
+- 👥 Provided technical guidance to team members
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-**🔧 IT Foundation → 📈 Technical Growth → 🚀 AI Innovation**
-
-</div>
 ---
 
 ## 🏆 **Achievements & Recognition**
