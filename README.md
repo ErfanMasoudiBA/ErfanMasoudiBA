@@ -68,7 +68,7 @@ When I'm not coding, you'll find me:
 ## 🤝 Let's Connect
 
 - 📧 **Email**: erfanmasoudiba@gmail.com
-- 💼 **LinkedIn**: [ErfanMasoudiBA]((https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/))
+- 💼 **LinkedIn**: [ErfanMasoudiBA](https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/)
 - 📞 **Phone**: +98 919 677 9163
 
 ---
