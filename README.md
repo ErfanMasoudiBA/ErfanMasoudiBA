@@ -86,12 +86,12 @@ interests: [AI/ML, Mobile Development, Web Technologies, Digital Art, Music]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erfanmasoudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmasoudi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erfanmasoudiBA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmasoudiBA&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erfanmasoudi&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erfanmasoudiBA&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
@@ -163,10 +163,10 @@ My artistic background in **painting** and **music** brings a unique creative pe
 
 <!-- Project cards would go here - replace with actual project links when available -->
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erfanmasoudi&repo=ai-flutter-app&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erfanmasoudiBA&repo=ai-flutter-app&theme=tokyonight&border_radius=10" />
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erfanmasoudi&repo=react-portfolio&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erfanmasoudiBA&repo=react-portfolio&theme=tokyonight&border_radius=10" />
 </a>
 
 </div>
