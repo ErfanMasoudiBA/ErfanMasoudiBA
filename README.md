@@ -1,124 +1,91 @@
+# Hey there! 👋 I'm **Seyed Erfan Masoudi**
+
 <div align="center">
   
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Seyed%20Erfan%20Masoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Mobile+App+Developer;Computer+Engineering+Student;Bridging+Creativity+%26+Technology)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 **About Me**
+
+> *"Where AI meets creativity, innovation begins."*
+
+I'm a passionate **Computer Engineering student** and **AI & Mobile App Developer** who loves crafting intelligent applications that seamlessly blend **AI, web, and mobile technologies**. Currently shaping the future at **PishgamanAI** as an **AI & Mobile Developer Intern**.
+
+🌟 **What drives me:**
+- 📱 Building beautiful, responsive **Flutter applications**
+- 🤖 Mastering **AI-powered development** with tools like Cursor & Qoder
+- 🎨 Combining my **artistic background** with cutting-edge technology
+- 🚀 Creating solutions that make a real difference
+
+---
+
+## 💻 **Tech Arsenal**
+
+<div align="center">
+
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛠️ **Tools & Technologies**
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
   
-  <!-- Typing Animation -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Mobile+App+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Flutter+%26+React+Specialist+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%8E%A8" alt="Typing SVG" />
-  </p>
+[![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErfanMasoudiBA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ErfanMasoudiBA)
 
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=erfanmasoudi&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/erfanmasoudi?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers" />
-  </p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMasoudiBA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/ErfanMasoudiBA)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```yaml
-name: Seyed Erfan Masoudi
-role: AI & Mobile Developer | Computer Engineering Student
-location: Tehran, Iran
-company: PishgamanAI
-passion: "Bridging AI, mobile, and web to create intelligent applications"
-
-current_focus:
-  - Flutter app development with AI integration
-  - Advanced prompt engineering & AI-powered coding
-  - Cross-platform mobile solutions
-  - Creative UX/UI design
-
-interests: [AI/ML, Mobile Development, Web Technologies, Digital Art, Music]
-```
-
-🎯 **Currently working at [PishgamanAI](https://pishgamanai.com)** as an **AI & Mobile Developer Intern**, crafting intelligent Flutter applications that push the boundaries of mobile technology.
-
-💡 **Passionate about** combining technical expertise with creative vision to build applications that are not just functional, but beautiful and intuitive.
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🔥 Primary Technologies</b></summary>
-<br>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" />
-</p>
-
-### 🌐 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### ⚡ AI-Powered Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Cursor_AI-Expert-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-Advanced-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Debugging-Specialist-4F46E5?style=for-the-badge&logo=bug&logoColor=white" />
-</p>
-
-### 🔧 Development Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erfanmasoudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmasoudi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erfanmasoudi&theme=tokyonight&border_radius=10" />
-</div>
-
----
-
-## 💼 Professional Experience
+## 💼 **Professional Journey**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI & Mobile Developer Intern
-**PishgamanAI** • *2025 – Present*
-- 📱 Developing cross-platform Flutter applications
-- 🧠 Integrating cutting-edge AI features
-- ⚡ Leveraging AI-powered coding tools (Cursor, Qoder)
-- 🔧 Advanced debugging and prompt engineering
-- 👥 Collaborating in agile development environment
+### 🚀 **AI & Mobile Developer Intern**
+**PishgamanAI** *(2025 – Present)*
+- 📱 Developing cross-platform **Flutter applications** with AI integration
+- 🤖 Leveraging AI-powered coding tools for efficient development
+- ⚡ Working in agile team environments
+- 🎯 Focusing on intelligent app solutions
 
 </td>
 <td width="50%">
 
-### 💻 IT & Network Support Specialist  
-**MahamTeymouri** • *2023 – 2024*
-- 🌐 Network infrastructure design & implementation
-- 🔧 System optimization and troubleshooting
-- 📞 Technical support and consultation
-- 🛡️ Security protocols implementation
+### 🔧 **IT & Network Support Specialist**
+**MahamTeymouri** *(2023 – 2024)*
+- 🌐 Network infrastructure setup & maintenance
+- 🔧 System troubleshooting and comprehensive IT support
+- 📈 Improved system efficiency and reliability
+- 👥 Provided technical guidance to team members
 
 </td>
 </tr>
@@ -126,70 +93,56 @@ interests: [AI/ML, Mobile Development, Web Technologies, Digital Art, Music]
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 **Achievements & Recognition**
 
 <div align="center">
 
-| 🎨 **Creative** | 🎓 **Academic** | 🛠️ **Technical** |
+| 🎨 **Art Gallery Exhibition** | 🏅 **Technical Certifications** | 🎓 **Academic Excellence** |
 |:---:|:---:|:---:|
-| 🖼️ Art Gallery Exhibition<br>*Tehran (2022)* | 📐 Mathematics & Physics<br>*Concentration* | 🌐 CCNA Certification<br>*Tehran Institute of Technology* |
-| 🎹 Piano Performance<br>*Advanced Level* | 🎓 Computer Engineering<br>*Current Studies* | 💻 MCSA Certification<br>*Microsoft Certified* |
-| 🖌️ Oil Painting Portfolio<br>*Professional Level* | 📚 Academic Excellence<br>*High School* | 🐧 Linux Administration<br>*Certified Professional* |
+| Selected artwork displayed in Tehran (2022) | CCNA, MCSA, Linux (Tehran Institute of Technology) | Mathematics & Physics concentration |
 
 </div>
 
 ---
 
-## 🎨 Creative Side
-
-<div align="center">
-  
-  **"Where Technology Meets Art"**
-  
-  <img src="https://img.shields.io/badge/🖌️_Oil_Painting-Advanced-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎹_Piano-Intermediate-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✏️_Charcoal_Drawing-Expert-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_UI/UX_Design-Creative-F39C12?style=for-the-badge" />
-
-</div>
-
-My artistic background in **painting** and **music** brings a unique creative perspective to my technical work, resulting in applications that are not just functional, but aesthetically pleasing and user-centric.
-
----
-
-## 🌟 Featured Projects
+## 🎨 **Beyond the Code**
 
 <div align="center">
 
-### 🚀 Coming Soon!
-*Currently building amazing projects that will be showcased here*
+```
+When I'm not coding, you'll find me...
+```
 
-<img src="https://img.shields.io/badge/Flutter_Apps-In_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Projects-Coming_Soon-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Portfolio-Planning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+🖌️ **Oil Painting & Charcoal Drawing** • 🎹 **Playing Piano** • 🌟 **Exploring Creative Technologies**
 
-**💡 Follow me to be the first to see my upcoming projects!**
+*I believe the best software is created when technical excellence meets artistic vision.*
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 📈 **Activity Graph**
+
+[![Erfan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErfanMasoudiBA&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ErfanMasoudiBA)
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
 
-<a href="mailto:erfanmasoudiba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="tel:+989196779163">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanmasoudiba@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-masoudi-a0b7262ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErfanMasoudiBA)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989196779163)
 
-### 💬 Open to opportunities in:
-**AI-Powered Mobile Development** • **Flutter Consulting** • **Creative Tech Projects** • **Collaborative Innovation**
+---
+
+### 💡 **"Innovation happens when AI meets human creativity"**
+
+*Always open to exciting projects, collaborations, and meaningful conversations!*
+
+<img src="https://komarev.com/ghpvc/?username=ErfanMasoudiBA&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -197,14 +150,6 @@ My artistic background in **painting** and **music** brings a unique creative pe
 
 <div align="center">
   
-  ### ⭐ *"Bridging AI, mobile, and web to create intelligent and beautiful applications"*
-  
-  <!-- Snake animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  
-  <!-- Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-  **Thanks for visiting! 🚀 Feel free to reach out for collaborations or just to chat about tech and creativity!**
+**⭐ If you like what you see, don't forget to star some repositories! ⭐**
 
 </div>
