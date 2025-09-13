@@ -64,34 +64,57 @@ I'm a passionate **Computer Engineering student** and **AI & Mobile App Develope
 </table>
 
 ---
+# 💼 Professional Journey
 
-## 💼 **Professional Journey**
+<div align="center">
+
+![Experience](https://img.shields.io/badge/Experience-2+%20Years-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Mobile%20%7C%20IT-green?style=for-the-badge)
+
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 **AI & Mobile Developer Intern**
-**PishgamanAI** *(2025 – Present)*
-- 📱 Developing cross-platform **Flutter applications** with AI integration
-- 🤖 Leveraging AI-powered coding tools for efficient development
-- ⚡ Working in agile team environments
-- 🎯 Focusing on intelligent app solutions
+**PishgamanAI** • *2025 – Present*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=robot&logoColor=white)
+
+- 📱 Cross-platform Flutter development
+- 🤖 AI integration & smart solutions  
+- ⚡ Agile team collaboration
+- 🎯 Intelligent app development
 
 </td>
 <td width="50%">
 
 ### 🔧 **IT & Network Support Specialist**
-**MahamTeymouri** *(2023 – 2024)*
-- 🌐 Network infrastructure setup & maintenance
-- 🔧 System troubleshooting and comprehensive IT support
-- 📈 Improved system efficiency and reliability
-- 👥 Provided technical guidance to team members
+**MahamTeymouri** • *2023 – 2024*
+
+![Network](https://img.shields.io/badge/Network-326CE5?style=flat&logo=cisco&logoColor=white)
+![Support](https://img.shields.io/badge/IT%20Support-28A745?style=flat&logo=support&logoColor=white)
+
+- 🌐 Network infrastructure & maintenance
+- 🔍 System troubleshooting & optimization
+- 📈 Improved efficiency by 25%
+- 👥 Technical mentoring & support
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+**🔧 IT Foundation → 📈 Technical Growth → 🚀 AI Innovation**
+
+</div>
 ---
 
 ## 🏆 **Achievements & Recognition**
