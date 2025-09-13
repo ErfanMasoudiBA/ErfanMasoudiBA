@@ -1,24 +1,46 @@
-# Hey there! 👋 I'm **Seyed Erfan Masoudi**
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Mobile+App+Developer;Computer+Engineering+Student;Bridging+Creativity+%26+Technology)](https://git.io/typing-svg)
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Seyed%20Erfan%20Masoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <!-- Typing Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Mobile+App+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Flutter+%26+React+Specialist+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%8E%A8" alt="Typing SVG" />
+  </p>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ErfanMasoudiBA&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ErfanMasoudiBA?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers" />
+  </p>
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-> *"Where AI meets creativity, innovation begins."*
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate **Computer Engineering student** and **AI & Mobile App Developer** who loves crafting intelligent applications that seamlessly blend **AI, web, and mobile technologies**. Currently shaping the future at **PishgamanAI** as an **AI & Mobile Developer Intern**.
+```yaml
+name: Seyed Erfan Masoudi
+role: AI & Mobile Developer | Computer Engineering Student
+location: Tehran, Iran
+company: PishgamanAI
+passion: "Bridging AI, mobile, and web to create intelligent applications"
 
-🌟 **What drives me:**
-- 📱 Building beautiful, responsive **Flutter applications**
-- 🤖 Mastering **AI-powered development** with tools like Cursor & Qoder
-- 🎨 Combining my **artistic background** with cutting-edge technology
-- 🚀 Creating solutions that make a real difference
+current_focus:
+  - Flutter app development with AI integration
+  - Advanced prompt engineering & AI-powered coding
+  - Cross-platform mobile solutions
+  - Creative UX/UI design
+
+interests: [AI/ML, Mobile Development, Web Technologies, Digital Art, Music]
+```
+
+🎯 **Currently working at [PishgamanAI](https://pishgamanai.com)** as an **AI & Mobile Developer Intern**, crafting intelligent Flutter applications that push the boundaries of mobile technology.
+
+💡 **Passionate about** combining technical expertise with creative vision to build applications that are not just functional, but beautiful and intuitive.
 
 ---
 
