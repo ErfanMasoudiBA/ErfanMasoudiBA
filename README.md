@@ -22,9 +22,11 @@ I'm a passionate **Computer Engineering student** and **AI & Mobile App Develope
 
 ---
 
-## 💻 **Tech Arsenal**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## 💻 **Tech Arsenal**
 
 ### 📱 **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -48,19 +50,18 @@ I'm a passionate **Computer Engineering student** and **AI & Mobile App Develope
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-  
 [![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErfanMasoudiBA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ErfanMasoudiBA)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMasoudiBA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/ErfanMasoudiBA)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
