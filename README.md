@@ -56,7 +56,7 @@ Implemented the KNN classification algorithm from scratch using NumPy.
 - Misclassified sample visualization
 - Achieved around 99% accuracy on the Digits dataset
 
-Repository: `(https://github.com/ErfanMasoudiBA/knn-from-scratch-numpy.git)`
+Repository: [K-Nearest Neighbors from Scratch](https://github.com/ErfanMasoudiBA/knn-from-scratch-numpy.git)
 
 ---
 
@@ -71,7 +71,7 @@ Implemented binary logistic regression from scratch and extended it with L2 regu
 - L2 regularization and lambda tuning
 - Train/test performance comparison
 
-Repository: `(https://github.com/ErfanMasoudiBA/logistic-regression-from-scratch-l2)`
+Repository: [logistic-regression-from-scratch-l2](https://github.com/ErfanMasoudiBA/logistic-regression-from-scratch-l2)
 
 ---
 
