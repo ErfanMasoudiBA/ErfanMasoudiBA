@@ -1,6 +1,6 @@
 # Hi, I'm Erfan Masoudi
 
-I'm a software developer with experience in web, mobile, backend, frontend, and IT support — now focused on building a strong path in Artificial Intelligence and Machine Learning.
+I'm a software developer with experience in web, mobile, backend, frontend, and IT support, now focused on building a strong path in Artificial Intelligence and Machine Learning.
 
 I enjoy understanding how things work under the hood, from software systems to machine learning algorithms.  
 Currently, I'm learning AI/ML deeply by implementing core algorithms from scratch and turning them into clean, documented projects.
@@ -107,6 +107,6 @@ I'm especially interested in:
 
 Email: erfanmasoudiba@gmail.com
 
-LinkedIn: `[linkedin](https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/?trk=PROFILE_DROP_DOWN)`
+LinkedIn: [linkedin.com/Erfanmasoudiba](https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/?trk=PROFILE_DROP_DOWN)
 
 GitHub: [github.com/Erfanmasoudiba](https://github.com/Erfanmasoudiba)
