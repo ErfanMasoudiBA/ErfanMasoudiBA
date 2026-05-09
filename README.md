@@ -1,112 +1,132 @@
-# Hi, I'm Erfan Masoudi
+# Hi, I'm Erfan Masoudi 👋
 
-I'm a software developer with experience in web, mobile, backend, frontend, and IT support, now focused on building a strong path in Artificial Intelligence and Machine Learning.
+**Software Developer transitioning into AI & Machine Learning**
 
-I enjoy understanding how things work under the hood, from software systems to machine learning algorithms.  
-Currently, I'm learning AI/ML deeply by implementing core algorithms from scratch and turning them into clean, documented projects.
+I build software, and now I'm learning how to make it intelligent.
+
+My background includes **web development, mobile development, IT support, and software engineering**, and I’m currently focused on strengthening my foundations in:
+
+- **Python**
+- **Machine Learning**
+- **Deep Learning**
+- **LLMs & RAG systems**
+- **AI-focused backend development**
+
+I’m especially interested in building projects that help me understand systems deeply — not just use libraries, but learn how things work under the hood.
 
 ---
 
 ## Current Focus
 
-- Machine Learning fundamentals
-- Python for AI and data science
-- Implementing ML algorithms from scratch
-- Model evaluation and error analysis
-- Applying AI concepts to real-world software products
+Right now, I’m working on:
+
+- implementing core ML algorithms from scratch
+- learning deep learning training workflows
+- building practical AI projects with clean backend architecture
+- improving my GitHub portfolio for **AI/ML internship and junior AI roles**
 
 ---
 
-## Background
+## Featured Projects
 
-Before focusing on AI, I worked across different areas of software and IT:
+### Machine Learning from Scratch
+Projects focused on understanding ML fundamentals by implementing algorithms manually and analyzing their behavior.
 
-- Frontend development with modern JavaScript frameworks
-- Backend development and full-stack application building
-- Mobile development experience
-- IT support and computer networking
-- UI/UX and product-oriented thinking
+- **K-Nearest Neighbors (KNN) from Scratch**
+  - implemented with NumPy
+  - evaluated on the Digits dataset
+  - explored performance across different values of K
+  - included confusion matrix and misclassification analysis
 
-This background helps me connect machine learning with real applications, not just notebooks.
+- **Logistic Regression from Scratch with L2 Regularization**
+  - implemented sigmoid, binary cross-entropy loss, and gradient descent manually
+  - explored the effect of regularization strength
+  - evaluated using accuracy, precision, recall, and F1-score
+
+### AI Backend / LLM Projects
+Projects focused on practical AI application development and system design.
+
+- **SmartDocs AI (RAG-based document QA assistant)**
+  - FastAPI-based backend for question answering over uploaded documents
+  - document parsing, chunking, embeddings, vector search, and answer generation
+  - designed to learn retrieval-augmented generation (RAG) architecture end to end
+
+### Deep Learning Learning Projects
+Projects focused on understanding training mechanics, monitoring, and optimization.
+
+- **Deep Learning Training Lab** *(in progress)*
+  - learning backpropagation and gradient flow through simple computational examples
+  - training neural networks with TensorFlow/Keras
+  - using callbacks, learning rate scheduling, and TensorBoard
+  - focused on building both conceptual understanding and practical workflow
 
 ---
 
 ## Tech Stack
 
-### AI / Machine Learning
-`Python` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Machine Learning`
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- Dart
+- SQL
 
-### Web / Software Development
-`JavaScript` `Next.js` `React` `Backend Development` `Frontend Development`
+**AI / ML**
+- NumPy
+- pandas
+- scikit-learn
+- TensorFlow / Keras
+- Sentence Transformers
+- ChromaDB
 
-### Mobile / Other
-`Flutter` `Networking` `IT Support` `UI/UX`
+**Backend / Software**
+- FastAPI
+- Node.js
+- Express
+- REST APIs
+- Git & GitHub
 
----
-
-## Featured AI/ML Projects
-
-### K-Nearest Neighbors from Scratch
-
-Implemented the KNN classification algorithm from scratch using NumPy.
-
-- Vectorized distance calculation
-- Hyperparameter tuning for different K values
-- Confusion matrix analysis
-- Misclassified sample visualization
-- Achieved around 99% accuracy on the Digits dataset
-
-Repository: [K-Nearest Neighbors from Scratch](https://github.com/ErfanMasoudiBA/knn-from-scratch-numpy.git)
-
----
-
-### Logistic Regression from Scratch with L2 Regularization
-
-Implemented binary logistic regression from scratch and extended it with L2 regularization.
-
-- Sigmoid function
-- Binary cross-entropy loss
-- Gradient descent optimization
-- Precision, recall, F1-score, and confusion matrix
-- L2 regularization and lambda tuning
-- Train/test performance comparison
-
-Repository: [logistic-regression-from-scratch-l2](https://github.com/ErfanMasoudiBA/logistic-regression-from-scratch-l2)
+**Other Background**
+- Web Development
+- Mobile Development
+- IT Support
+- Software Engineering Fundamentals
 
 ---
 
-## Learning Roadmap
+## What I'm Learning
 
-Currently building my AI/ML foundation through practical projects:
+I’m currently building my understanding of:
 
-- [x] KNN from Scratch
-- [x] Logistic Regression from Scratch
-- [x] L2 Regularization
-- [ ] Linear Regression from Scratch
-- [ ] Decision Tree from Scratch
-- [ ] K-Means Clustering from Scratch
-- [ ] PCA from Scratch
-- [ ] Neural Networks from Scratch
+- machine learning fundamentals
+- deep learning and training workflows
+- backpropagation and optimization
+- LLM application development
+- retrieval-augmented generation (RAG)
+- AI system design and backend integration
 
 ---
 
 ## What I'm Looking For
 
-I'm open to opportunities where I can combine my software development background with AI and machine learning.
+I’m currently looking for opportunities where I can grow as:
+- **AI/ML Intern**
+- **Junior AI Engineer**
+- **Python / AI Backend Intern**
+- **Machine Learning Intern**
 
-I'm especially interested in:
-
-- AI/ML internships or junior roles
-- Python and machine learning projects
-- AI features for real-world web or mobile applications
-- Teams that value learning, clean code, and practical problem solving
+I’m especially interested in roles where I can keep learning while contributing through clean implementation, problem solving, and steady technical growth.
 
 ---
 
-## Contact
+## Learning Mindset
 
-Email: erfanmasoudiba@gmail.com
+I care a lot about:
+- understanding concepts deeply
+- writing clear and organized code
+- building projects that are both educational and practical
+- improving step by step with consistency
 
-LinkedIn: [linkedin.com/Erfanmasoudiba](https://www.linkedin.com/in/erfan-masoudi-a0b7462ab/?trk=PROFILE_DROP_DOWN)
+---
 
-GitHub: [github.com/Erfanmasoudiba](https://github.com/Erfanmasoudiba)
+> I’m building my way into AI through real projects, strong fundamentals, and consistent practice.
