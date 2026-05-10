@@ -62,29 +62,14 @@ Projects focused on understanding training mechanics, monitoring, and optimizati
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-- Dart
-- SQL
-
-**AI / ML**
-- NumPy
-- pandas
-- scikit-learn
-- TensorFlow / Keras
-- Sentence Transformers
-- ChromaDB
-
-**Backend / Software**
-- FastAPI
-- Node.js
-- Express
-- REST APIs
-- Git & GitHub
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, Dart, SQL |
+| **AI / ML** | NumPy, pandas, scikit-learn, TensorFlow, Keras, Sentence Transformers, ChromaDB |
+| **Backend** | FastAPI, Node.js, Express.js, REST APIs |
+| **Tools** | Git, GitHub |
 
 **Other Background**
 - Web Development
