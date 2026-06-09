@@ -1,53 +1,76 @@
 # Erfan Masoudi 👋
 
-Software developer building toward AI & Machine Learning engineering.
+Python developer focused on backend systems and AI-powered applications.
 
-I come from web, mobile, and backend development, and I'm now focused on
-the parts of ML I care about most: understanding how things actually work,
-then building real projects around them — not just calling libraries.
+I enjoy understanding how systems work under the hood and building them from scratch — from clean backend architecture and asynchronous processing to retrieval-augmented AI applications.
 
-🔭 Working on: ML algorithms from scratch, deep learning training pipelines, and LLM/RAG backends.
+🔭 Currently building AI-powered backend systems with FastAPI, Redis, Celery, and modern Python.
 
 ---
 
 ## Projects
 
-**SmartDocs AI** — RAG document QA assistant
-Ask questions over your own documents. FastAPI backend handling parsing,
-chunking, embeddings, vector search, and answer generation — a full
-retrieval-augmented generation pipeline, end to end.
-`FastAPI` `Sentence Transformers` `ChromaDB`
+### Async Vision API
 
-**Logistic Regression from Scratch**
-Sigmoid, binary cross-entropy, and gradient descent implemented by hand,
-with L2 regularization. Studied how regularization strength shifts the
-decision boundary, evaluated with accuracy, precision, recall, and F1.
+Asynchronous computer vision inference API built with FastAPI, Celery, Redis, and Docker.
+
+Features image upload, validation, background processing, and scalable task execution for AI workloads.
+
+`Python` `FastAPI` `Celery` `Redis` `Docker`
+
+### SmartDocs AI
+
+RAG-based document question-answering system that allows users to chat with their own documents.
+
+Built end-to-end with document parsing, chunking, embeddings, vector search, and answer generation.
+
+`FastAPI` `SentenceTransformers` `ChromaDB`
+
+### Machine Learning Algorithms From Scratch
+
+Implemented core machine learning algorithms from first principles to better understand optimization, training dynamics, and model behavior.
+
+Includes Logistic Regression, K-Nearest Neighbors, evaluation metrics, and experimentation workflows.
+
 `NumPy`
 
-**K-Nearest Neighbors from Scratch**
-KNN built on NumPy and tested on the Digits dataset. Analyzed accuracy
-across values of K, with confusion matrix and misclassification breakdown.
-`NumPy`
+---
 
-**Deep Learning Training Lab** *(in progress)*
-Hands-on with backpropagation, gradient flow, and Keras training workflows —
-callbacks, learning rate scheduling, and TensorBoard monitoring.
-`TensorFlow` `Keras`
+## Learning Repositories
+
+### Python Backend Core Skills
+
+A structured repository covering backend engineering fundamentals through hands-on implementation:
+
+* Clean code and function design
+* Data modeling and business rules
+* Testing and edge-case thinking
+* Object-oriented programming
+* Layered architecture
+* AsyncIO and event loops
+* Celery and Redis
+* Docker-based development workflows
 
 ---
 
 ## Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python, JavaScript, TypeScript, Dart, SQL |
-| **AI / ML** | NumPy, pandas, scikit-learn, TensorFlow, Keras, Sentence Transformers, ChromaDB |
-| **Backend** | FastAPI, Node.js, Express, REST |
-| **Tools** | Git, GitHub |
+**Languages**
+
+Python • JavaScript • TypeScript • SQL
+
+**Backend**
+
+FastAPI • REST APIs • AsyncIO • Celery • Redis
+
+**AI / ML**
+
+NumPy • pandas • scikit-learn • TensorFlow • SentenceTransformers • ChromaDB
+
+**Tools**
+
+Git • GitHub • Docker
 
 ---
 
-## Open to
-
-AI/ML or Python backend roles (internship or junior) where I can ship clean
-code, solve real problems, and keep leveling up.
+Interested in Python Backend, AI Infrastructure, and Machine Learning Engineering roles.
