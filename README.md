@@ -1,117 +1,53 @@
-# Hi, I'm Erfan Masoudi 👋
+# Erfan Masoudi 👋
 
-**Software Developer transitioning into AI & Machine Learning**
+Software developer building toward AI & Machine Learning engineering.
 
-I build software, and now I'm learning how to make it intelligent.
+I come from web, mobile, and backend development, and I'm now focused on
+the parts of ML I care about most: understanding how things actually work,
+then building real projects around them — not just calling libraries.
 
-My background includes **web development, mobile development, IT support, and software engineering**, and I’m currently focused on strengthening my foundations in:
-
-- **Python**
-- **Machine Learning**
-- **Deep Learning**
-- **LLMs & RAG systems**
-- **AI-focused backend development**
-
-I’m especially interested in building projects that help me understand systems deeply — not just use libraries, but learn how things work under the hood.
+🔭 Working on: ML algorithms from scratch, deep learning training pipelines, and LLM/RAG backends.
 
 ---
 
-## Current Focus
+## Projects
 
-Right now, I’m working on:
+**SmartDocs AI** — RAG document QA assistant
+Ask questions over your own documents. FastAPI backend handling parsing,
+chunking, embeddings, vector search, and answer generation — a full
+retrieval-augmented generation pipeline, end to end.
+`FastAPI` `Sentence Transformers` `ChromaDB`
 
-- implementing core ML algorithms from scratch
-- learning deep learning training workflows
-- building practical AI projects with clean backend architecture
-- improving my GitHub portfolio for **AI/ML internship and junior AI roles**
+**Logistic Regression from Scratch**
+Sigmoid, binary cross-entropy, and gradient descent implemented by hand,
+with L2 regularization. Studied how regularization strength shifts the
+decision boundary, evaluated with accuracy, precision, recall, and F1.
+`NumPy`
 
----
+**K-Nearest Neighbors from Scratch**
+KNN built on NumPy and tested on the Digits dataset. Analyzed accuracy
+across values of K, with confusion matrix and misclassification breakdown.
+`NumPy`
 
-## Featured Projects
-
-### Machine Learning from Scratch
-Projects focused on understanding ML fundamentals by implementing algorithms manually and analyzing their behavior.
-
-- **K-Nearest Neighbors (KNN) from Scratch**
-  - implemented with NumPy
-  - evaluated on the Digits dataset
-  - explored performance across different values of K
-  - included confusion matrix and misclassification analysis
-
-- **Logistic Regression from Scratch with L2 Regularization**
-  - implemented sigmoid, binary cross-entropy loss, and gradient descent manually
-  - explored the effect of regularization strength
-  - evaluated using accuracy, precision, recall, and F1-score
-
-### AI Backend / LLM Projects
-Projects focused on practical AI application development and system design.
-
-- **SmartDocs AI (RAG-based document QA assistant)**
-  - FastAPI-based backend for question answering over uploaded documents
-  - document parsing, chunking, embeddings, vector search, and answer generation
-  - designed to learn retrieval-augmented generation (RAG) architecture end to end
-
-### Deep Learning Learning Projects
-Projects focused on understanding training mechanics, monitoring, and optimization.
-
-- **Deep Learning Training Lab** *(in progress)*
-  - learning backpropagation and gradient flow through simple computational examples
-  - training neural networks with TensorFlow/Keras
-  - using callbacks, learning rate scheduling, and TensorBoard
-  - focused on building both conceptual understanding and practical workflow
+**Deep Learning Training Lab** *(in progress)*
+Hands-on with backpropagation, gradient flow, and Keras training workflows —
+callbacks, learning rate scheduling, and TensorBoard monitoring.
+`TensorFlow` `Keras`
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-| Category | Technologies |
+| | |
 |---|---|
 | **Languages** | Python, JavaScript, TypeScript, Dart, SQL |
 | **AI / ML** | NumPy, pandas, scikit-learn, TensorFlow, Keras, Sentence Transformers, ChromaDB |
-| **Backend** | FastAPI, Node.js, Express.js, REST APIs |
+| **Backend** | FastAPI, Node.js, Express, REST |
 | **Tools** | Git, GitHub |
 
-**Other Background**
-- Web Development
-- Mobile Development
-- IT Support
-- Software Engineering Fundamentals
-
 ---
 
-## What I'm Learning
+## Open to
 
-I’m currently building my understanding of:
-
-- machine learning fundamentals
-- deep learning and training workflows
-- backpropagation and optimization
-- LLM application development
-- retrieval-augmented generation (RAG)
-- AI system design and backend integration
-
----
-
-## What I'm Looking For
-
-I’m currently looking for opportunities where I can grow as:
-- **AI/ML Intern**
-- **Junior AI Engineer**
-- **Python / AI Backend Intern**
-- **Machine Learning Intern**
-
-I’m especially interested in roles where I can keep learning while contributing through clean implementation, problem solving, and steady technical growth.
-
----
-
-## Learning Mindset
-
-I care a lot about:
-- understanding concepts deeply
-- writing clear and organized code
-- building projects that are both educational and practical
-- improving step by step with consistency
-
----
-
-> I’m building my way into AI through real projects, strong fundamentals, and consistent practice.
+AI/ML or Python backend roles (internship or junior) where I can ship clean
+code, solve real problems, and keep leveling up.
