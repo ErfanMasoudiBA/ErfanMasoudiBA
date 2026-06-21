@@ -1,76 +1,46 @@
 # Erfan Masoudi 👋
 
-Python developer focused on backend systems and AI-powered applications.
+**AI & Python Developer | Specializing in Backend Systems, Computer Vision, and Generative AI.**
 
-I enjoy understanding how systems work under the hood and building them from scratch — from clean backend architecture and asynchronous processing to retrieval-augmented AI applications.
+I enjoy building scalable AI solutions from the ground up — combining clean backend architecture with advanced machine learning and image processing models. 
 
-🔭 Currently building AI-powered backend systems with FastAPI, Redis, Celery, and modern Python.
+🔭 Currently participating in a 3-month **Generative AI & Computer Vision** (GANs, Diffusion Models, Multimodal AI) through an intensive bootcamp at Hamrah Academy (In Progress).
 
 ---
 
-## Projects
+## 🚀 Featured Projects & Repositories
+
+### GenAI Vision Bootcamp 👁️✨
+Comprehensive codes and projects from a 200+ hour intensive Generative AI & Computer Vision program. Covers deep learning for image processing, generative models, and Multimodal AI.
+`PyTorch` `OpenCV` `CNNs` `Diffusion Models` `Generative AI`
 
 ### Async Vision API
-
-Asynchronous computer vision inference API built with FastAPI, Celery, Redis, and Docker.
-
-Features image upload, validation, background processing, and scalable task execution for AI workloads.
-
+Asynchronous computer vision inference API built with FastAPI, Celery, Redis, and Docker. Features image upload, validation, background processing, and scalable task execution for AI workloads.
 `Python` `FastAPI` `Celery` `Redis` `Docker`
 
 ### SmartDocs AI
-
-RAG-based document question-answering system that allows users to chat with their own documents.
-
-Built end-to-end with document parsing, chunking, embeddings, vector search, and answer generation.
-
+RAG-based document question-answering system that allows users to chat with their own documents. Built end-to-end with document parsing, chunking, embeddings, and vector search.
 `FastAPI` `SentenceTransformers` `ChromaDB`
 
 ### Machine Learning Algorithms From Scratch
-
-Implemented core machine learning algorithms from first principles to better understand optimization, training dynamics, and model behavior.
-
-Includes Logistic Regression, K-Nearest Neighbors, evaluation metrics, and experimentation workflows.
-
-`NumPy`
-
----
-
-## Learning Repositories
+Implemented core machine learning algorithms (Logistic Regression, KNN) from first principles to better understand optimization, training dynamics, and model behavior.
+`NumPy` `Math`
 
 ### Python Backend Core Skills
-
-A structured repository covering backend engineering fundamentals through hands-on implementation:
-
-* Clean code and function design
-* Data modeling and business rules
-* Testing and edge-case thinking
-* Object-oriented programming
-* Layered architecture
-* AsyncIO and event loops
-* Celery and Redis
-* Docker-based development workflows
+A structured repository covering backend engineering fundamentals: clean code, OOP, layered architecture, AsyncIO, and Docker-based workflows.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+**Languages:** Python • JavaScript • TypeScript • SQL
 
-Python • JavaScript • TypeScript • SQL
+**Backend & Architecture:** FastAPI • REST APIs • AsyncIO • Celery • Redis • Docker
 
-**Backend**
+**AI & Computer Vision:** PyTorch • TensorFlow • OpenCV • Scikit-Learn • Generative AI (GANs, Diffusion) • Multimodal AI
 
-FastAPI • REST APIs • AsyncIO • Celery • Redis
-
-**AI / ML**
-
-NumPy • pandas • scikit-learn • TensorFlow • SentenceTransformers • ChromaDB
-
-**Tools**
-
-Git • GitHub • Docker
+**Tools:** Git • GitHub • Linux
 
 ---
 
-Interested in Python Backend, AI Infrastructure, and Machine Learning Engineering roles.
+💡 **Open to roles in:** Machine Learning Engineering, Computer Vision, AI Infrastructure, and Python Backend.
