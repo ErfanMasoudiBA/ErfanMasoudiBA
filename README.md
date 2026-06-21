@@ -10,7 +10,7 @@ I enjoy building scalable AI solutions from the ground up — combining clean ba
 
 ## 🚀 Featured Projects & Repositories
 
-### GenAI Vision Bootcamp 👁️✨
+### GenAI Vision Bootcamp
 Comprehensive codes and projects from a 200+ hour intensive Generative AI & Computer Vision program. Covers deep learning for image processing, generative models, and Multimodal AI.
 `PyTorch` `OpenCV` `CNNs` `Diffusion Models` `Generative AI`
 
